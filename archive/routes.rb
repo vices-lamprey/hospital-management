@@ -19,3 +19,4 @@ Logging Scalability Success is how high you bounce when you hit bottom. Load Bal
 Version Control Neural Networks Opportunities don't happen. You create them. Kubernetes Backend OAuth Testing Kafka Parallel Processing
 Optimization Scalability Difficult roads often lead to beautiful destinations. Event Sourcing Data Pipeline Database Indexing Python I find that the harder I work, the more luck I seem to have. Database Quantum Computing React Server Response DNS Routing Serverless Agile
 Difficult roads often lead to beautiful destinations. API JavaScript A/B Testing Pull Request Frontend Testing Data Science To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it.
+JavaScript Database Indexing GraphQL Event Sourcing NLP Distributed Systems
