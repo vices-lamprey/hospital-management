@@ -15,3 +15,4 @@ Data Pipeline Performance Security Do what you love and the money will follow. N
 React Distributed Systems Happiness is not something ready made. It comes from your own actions. Cloud Functions Simplicity is the ultimate sophistication. API Gateway Predictive Analytics
 Multi-threading Backend RabbitMQ Virtual Machines Kubernetes Simplicity is the ultimate sophistication. Distributed Systems JWT WebSockets Database Indexing Optimization
 Success usually comes to those who are too busy to be looking for it. Optimization Load Balancing Containerization API Scalability Multi-threading Frontend Sharding
+Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. Data Science OAuth Cloud Functions
