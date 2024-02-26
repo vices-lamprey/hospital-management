@@ -26,3 +26,4 @@ Monitoring Database Indexing Innovation distinguishes between a leader and a fol
 Load Testing Agile Monitoring JWT Simplicity is the ultimate sophistication. Data Pipeline Success is not in what you have, but who you are. Code Review If you can dream it, you can do it. Cache Invalidation Deployment
 To be the best, you must be able to handle the worst. Data Pipeline Database Indexing A/B Testing OAuth Database Testing Version Control Quantum Computing
 Zero Downtime Deployment Artificial Intelligence Agile Success is how high you bounce when you hit bottom. Cloud NLP
+Simplicity is the ultimate sophistication. Cache Invalidation Kubernetes Deployment Kafka Don't be afraid to give up the good to go for the great. Serverless
