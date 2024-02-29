@@ -24,3 +24,4 @@ Framework Machine Learning Virtual Machines Edge Computing Quantum Computing UX 
 Simplicity is the ultimate sophistication. Cloud Functions GraphQL Backend Server Response Event Sourcing Container Orchestration Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Microservices
 Latency Optimization Sharding Optimization Replica Set Deployment Distributed Systems Database Indexing
 Success usually comes to those who are too busy to be looking for it. UX Optimization Quantum Computing Version Control Performance JavaScript Artificial Intelligence Automation Optimization React Big Data GraphQL WebSockets
+Automation UX Optimization Edge Computing Neural Networks Logging Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have.
