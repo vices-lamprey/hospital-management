@@ -28,3 +28,4 @@ Replica Set JavaScript Content Delivery Network Firewalls To be the best, you mu
 DNS Routing Artificial Intelligence Zero Downtime Deployment Simplicity is the ultimate sophistication. Blockchain Optimization
 Edge Computing Lambda Functions Difficult roads often lead to beautiful destinations. Quantum Computing Replica Set Message Queue Database Frontend Code Review Agile Database Indexing Parallel Processing Innovation distinguishes between a leader and a follower. Cloud Functions
 Simplicity is the ultimate sophistication. DevOps Opportunities don't happen. You create them. Dream big and dare to fail. JWT API Gateway
+Big Data Neural Networks Performance IoT Multi-threading API Gateway Predictive Analytics Cloud Functions Database Replica Set Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. OAuth Innovation distinguishes between a leader and a follower.
