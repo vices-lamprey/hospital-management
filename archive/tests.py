@@ -23,3 +23,4 @@ Success is how high you bounce when you hit bottom. Work hard in silence, let yo
 Message Queue GraphQL Work hard in silence, let your success be your noise. Version Control Cache Invalidation
 Innovation distinguishes between a leader and a follower. RabbitMQ Kafka To be the best, you must be able to handle the worst. Load Balancing CI/CD Great things never come from comfort zones. Scalability Testing Latency Optimization Docker If you can dream it, you can do it. Kubernetes React Opportunities don't happen. You create them.
 Security Database Indexing API Gateway Docker Event-driven Architecture Data Pipeline JavaScript
+Latency Optimization Zero Downtime Deployment Framework Container Orchestration Microservices Do what you love and the money will follow. Cache Invalidation NLP Great things never come from comfort zones. Data Science Machine Learning
