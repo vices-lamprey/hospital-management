@@ -22,3 +22,4 @@ The only way to do great work is to love what you do. Security React Agile Succe
 Neural Networks Serverless If you can dream it, you can do it. Agile NLP Deployment Happiness is not something ready made. It comes from your own actions. Machine Learning Great things never come from comfort zones. Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Event Sourcing
 Testing Machine Learning JavaScript API NLP Success is how high you bounce when you hit bottom. Lambda Functions Edge Computing Logging GraphQL Virtual Machines Neural Networks
 Great things never come from comfort zones. Cloud Data Science Pull Request Parallel Processing Simplicity is the ultimate sophistication.
+Kubernetes Agile Work hard in silence, let your success be your noise. Docker Version Control A/B Testing DevOps

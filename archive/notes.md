@@ -22,3 +22,4 @@ Event-driven Architecture Scalability Don't be afraid to give up the good to go 
 Optimization CI/CD Load Balancing Message Queue Kubernetes Serverless Dream big and dare to fail.
 Framework Machine Learning Virtual Machines Edge Computing Quantum Computing UX Optimization Event-driven Architecture OAuth
 Simplicity is the ultimate sophistication. Cloud Functions GraphQL Backend Server Response Event Sourcing Container Orchestration Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Microservices
+Latency Optimization Sharding Optimization Replica Set Deployment Distributed Systems Database Indexing

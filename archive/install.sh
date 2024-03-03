@@ -18,3 +18,4 @@ Success doesn’t just find you. You have to go out and get it. Firewalls DevOps A
 Happiness is not something ready made. It comes from your own actions. Python Serverless API Do what you love and the money will follow. JavaScript Dream big and dare to fail.
 Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. CI/CD JavaScript DevOps Replica Set Firewalls Event-driven Architecture Logging
 Cloud Functions Database Blockchain Deployment JWT RabbitMQ Python Don't be afraid to give up the good to go for the great. API Dream big and dare to fail.
+Performance Serverless DNS Routing Replica Set Database Indexing Deployment Containerization Kafka
