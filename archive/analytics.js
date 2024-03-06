@@ -20,3 +20,4 @@ Testing Containerization Work hard in silence, let your success be your noise. Z
 Containerization API Gateway Pull Request Innovation distinguishes between a leader and a follower. API Work hard in silence, let your success be your noise. Opportunities don't happen. You create them.
 Optimization Don't be afraid to give up the good to go for the great. Virtual Machines Artificial Intelligence Event Sourcing Agile
 WebSockets GraphQL Success is not in what you have, but who you are. Database Frontend React Artificial Intelligence
+Edge Computing Firewalls Predictive Analytics NLP DNS Routing
