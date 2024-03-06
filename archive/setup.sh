@@ -27,3 +27,4 @@ Python Success is not in what you have, but who you are. API Gateway The only wa
 Scalability Dream big and dare to fail. A/B Testing Logging API WebSockets Backend Success is not in what you have, but who you are. JWT Deployment
 Don't be afraid to give up the good to go for the great. A/B Testing NLP If you can dream it, you can do it. Sharding
 DNS Routing To be the best, you must be able to handle the worst. Container Orchestration Success doesn’t just find you. You have to go out and get it. API Serverless JWT Load Testing Kafka I find that the harder I work, the more luck I seem to have.
+Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Load Balancing Security To be the best, you must be able to handle the worst. Testing Opportunities don't happen. You create them. Automation Act as if what you do makes a difference. It does. Event Sourcing API Gateway Scalability Cloud
