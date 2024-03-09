@@ -21,3 +21,4 @@ Blockchain GraphQL I find that the harder I work, the more luck I seem to have. 
 Deployment Content Delivery Network WebSockets If you can dream it, you can do it. Server Response
 Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. Distributed Systems Success doesn’t just find you. You have to go out and get it. Cache Invalidation GraphQL
 Message Queue GraphQL Work hard in silence, let your success be your noise. Version Control Cache Invalidation
+Innovation distinguishes between a leader and a follower. RabbitMQ Kafka To be the best, you must be able to handle the worst. Load Balancing CI/CD Great things never come from comfort zones. Scalability Testing Latency Optimization Docker If you can dream it, you can do it. Kubernetes React Opportunities don't happen. You create them.

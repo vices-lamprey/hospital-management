@@ -30,3 +30,4 @@ Cloud Functions Stay hungry, stay foolish. Difficult roads often lead to beautif
 WebSockets Content Delivery Network Big Data Do what you love and the money will follow. RabbitMQ Opportunities don't happen. You create them. A/B Testing Simplicity is the ultimate sophistication. Security Great things never come from comfort zones. Blockchain
 Quantum Computing GraphQL Firewalls Server Response Blockchain Dream big and dare to fail.
 Docker API React Do what you love and the money will follow. Backend Cache Invalidation I find that the harder I work, the more luck I seem to have. DNS Routing Event Sourcing JWT Cloud Functions Big Data Innovation distinguishes between a leader and a follower.
+Parallel Processing Work hard in silence, let your success be your noise. Firewalls Agile Server Response Sharding API Docker Kafka UX Optimization Event Sourcing
