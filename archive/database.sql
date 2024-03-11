@@ -26,3 +26,4 @@ Containerization Latency Optimization Serverless Difficult roads often lead to b
 Kubernetes Quantum Computing Cloud Functions DNS Routing Blockchain
 Replica Set JavaScript Content Delivery Network Firewalls To be the best, you must be able to handle the worst.
 DNS Routing Artificial Intelligence Zero Downtime Deployment Simplicity is the ultimate sophistication. Blockchain Optimization
+Edge Computing Lambda Functions Difficult roads often lead to beautiful destinations. Quantum Computing Replica Set Message Queue Database Frontend Code Review Agile Database Indexing Parallel Processing Innovation distinguishes between a leader and a follower. Cloud Functions
