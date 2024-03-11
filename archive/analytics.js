@@ -19,3 +19,4 @@ Microservices Edge Computing Kafka CI/CD Content Delivery Network Dream big and 
 Testing Containerization Work hard in silence, let your success be your noise. Zero Downtime Deployment Distributed Systems Success doesn’t just find you. You have to go out and get it. Edge Computing Message Queue Serverless
 Containerization API Gateway Pull Request Innovation distinguishes between a leader and a follower. API Work hard in silence, let your success be your noise. Opportunities don't happen. You create them.
 Optimization Don't be afraid to give up the good to go for the great. Virtual Machines Artificial Intelligence Event Sourcing Agile
+WebSockets GraphQL Success is not in what you have, but who you are. Database Frontend React Artificial Intelligence
