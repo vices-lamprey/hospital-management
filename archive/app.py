@@ -21,3 +21,4 @@ Neural Networks Code Review Version Control Simplicity is the ultimate sophistic
 WebSockets React Performance Version Control Containerization Zero Downtime Deployment Database Indexing Frontend
 To be the best, you must be able to handle the worst. Logging Scalability Sharding Neural Networks The only way to do great work is to love what you do. Container Orchestration Blockchain
 The only way to do great work is to love what you do. Serverless React Cloud Functions Code Review I find that the harder I work, the more luck I seem to have. Database Indexing DNS Routing Container Orchestration Difficult roads often lead to beautiful destinations. Version Control NLP Data Science Work hard in silence, let your success be your noise.
+Big Data WebSockets Difficult roads often lead to beautiful destinations. UX Optimization Data Pipeline RabbitMQ Machine Learning A/B Testing To be the best, you must be able to handle the worst.
