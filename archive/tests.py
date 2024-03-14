@@ -19,3 +19,4 @@ Distributed Systems Big Data UX Optimization Firewalls DevOps Virtual Machines S
 Simplicity is the ultimate sophistication. Version Control Distributed Systems Data Science Success usually comes to those who are too busy to be looking for it. Load Testing
 Blockchain GraphQL I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Algorithm Do what you love and the money will follow. RabbitMQ Cloud Functions
 Deployment Content Delivery Network WebSockets If you can dream it, you can do it. Server Response
+Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. Distributed Systems Success doesn’t just find you. You have to go out and get it. Cache Invalidation GraphQL
