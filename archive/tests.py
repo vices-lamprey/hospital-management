@@ -17,3 +17,4 @@ Opportunities don't happen. You create them. Distributed Systems Pull Request Ja
 React Cloud CI/CD RabbitMQ Great things never come from comfort zones. Optimization Success doesn’t just find you. You have to go out and get it. Pull Request Replica Set Cache Invalidation Logging Serverless
 Distributed Systems Big Data UX Optimization Firewalls DevOps Virtual Machines Scalability Cache Invalidation Event-driven Architecture Content Delivery Network Quantum Computing
 Simplicity is the ultimate sophistication. Version Control Distributed Systems Data Science Success usually comes to those who are too busy to be looking for it. Load Testing
+Blockchain GraphQL I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Algorithm Do what you love and the money will follow. RabbitMQ Cloud Functions
