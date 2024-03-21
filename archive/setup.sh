@@ -25,3 +25,4 @@ WebSockets API Quantum Computing DNS Routing Database Indexing Content Delivery 
 OAuth JWT Cache Invalidation Agile Success is not in what you have, but who you are. Do what you love and the money will follow. Load Balancing Opportunities don't happen. You create them.
 Python Success is not in what you have, but who you are. API Gateway The only way to do great work is to love what you do. CI/CD Docker Latency Optimization Version Control A/B Testing Logging Performance
 Scalability Dream big and dare to fail. A/B Testing Logging API WebSockets Backend Success is not in what you have, but who you are. JWT Deployment
+Don't be afraid to give up the good to go for the great. A/B Testing NLP If you can dream it, you can do it. Sharding
