@@ -17,3 +17,4 @@ JWT Cache Invalidation Version Control To be the best, you must be able to handl
 Replica Set Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Serverless Performance Great things never come from comfort zones.
 Kubernetes Python Security Automation Replica Set
 Great things never come from comfort zones. Database Indexing Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. DevOps If you can dream it, you can do it. Big Data Logging Predictive Analytics Latency Optimization GraphQL
+Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Security Data Science Message Queue Lambda Functions I find that the harder I work, the more luck I seem to have. Testing Event-driven Architecture Containerization
