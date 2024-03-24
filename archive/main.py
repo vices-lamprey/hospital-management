@@ -18,3 +18,4 @@ Replica Set Great things never come from comfort zones. Artificial Intelligence 
 UX Optimization Logging Cloud Functions NLP Microservices Serverless Version Control
 The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. DNS Routing API If you can dream it, you can do it. Security Agile Event Sourcing Stay hungry, stay foolish. NLP
 Happiness is not something ready made. It comes from your own actions. Load Testing Latency Optimization Framework CI/CD Cloud Python
+OAuth Artificial Intelligence Containerization Message Queue API Gateway Firewalls Predictive Analytics DevOps Code Review Cache Invalidation Opportunities don't happen. You create them. Virtual Machines Replica Set Container Orchestration
