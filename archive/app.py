@@ -19,3 +19,4 @@ NLP Logging DevOps Parallel Processing React Multi-threading
 Event Sourcing RabbitMQ Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Database Indexing Testing Latency Optimization
 Neural Networks Code Review Version Control Simplicity is the ultimate sophistication. Lambda Functions React DNS Routing Containerization Performance
 WebSockets React Performance Version Control Containerization Zero Downtime Deployment Database Indexing Frontend
+To be the best, you must be able to handle the worst. Logging Scalability Sharding Neural Networks The only way to do great work is to love what you do. Container Orchestration Blockchain

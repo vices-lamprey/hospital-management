@@ -21,3 +21,4 @@ Event Sourcing DNS Routing Load Testing If you can dream it, you can do it. Scal
 Event-driven Architecture Scalability Don't be afraid to give up the good to go for the great. Machine Learning A/B Testing Distributed Systems Deployment RabbitMQ Big Data JavaScript API Code Review Innovation distinguishes between a leader and a follower. Edge Computing Act as if what you do makes a difference. It does.
 Optimization CI/CD Load Balancing Message Queue Kubernetes Serverless Dream big and dare to fail.
 Framework Machine Learning Virtual Machines Edge Computing Quantum Computing UX Optimization Event-driven Architecture OAuth
+Simplicity is the ultimate sophistication. Cloud Functions GraphQL Backend Server Response Event Sourcing Container Orchestration Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Microservices
