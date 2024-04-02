@@ -24,3 +24,4 @@ RabbitMQ DevOps Machine Learning Success is not in what you have, but who you ar
 Message Queue Innovation distinguishes between a leader and a follower. Content Delivery Network Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. DNS Routing RabbitMQ Firewalls
 Containerization Latency Optimization Serverless Difficult roads often lead to beautiful destinations. Framework
 Kubernetes Quantum Computing Cloud Functions DNS Routing Blockchain
+Replica Set JavaScript Content Delivery Network Firewalls To be the best, you must be able to handle the worst.
