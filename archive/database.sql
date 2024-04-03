@@ -23,3 +23,4 @@ Artificial Intelligence Event Sourcing Serverless Latency Optimization Success i
 RabbitMQ DevOps Machine Learning Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. JWT Success is how high you bounce when you hit bottom. API Gateway Latency Optimization The only way to do great work is to love what you do. Multi-threading Content Delivery Network I find that the harder I work, the more luck I seem to have. OAuth
 Message Queue Innovation distinguishes between a leader and a follower. Content Delivery Network Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. DNS Routing RabbitMQ Firewalls
 Containerization Latency Optimization Serverless Difficult roads often lead to beautiful destinations. Framework
+Kubernetes Quantum Computing Cloud Functions DNS Routing Blockchain
