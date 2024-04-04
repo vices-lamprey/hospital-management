@@ -26,3 +26,4 @@ WebSockets NLP Big Data DevOps Act as if what you do makes a difference. It does
 Cloud Functions JWT Version Control Server Response Framework DNS Routing Quantum Computing Great things never come from comfort zones. Agile Success is not in what you have, but who you are. Parallel Processing DevOps Success is how high you bounce when you hit bottom.
 Security WebSockets Multi-threading JavaScript Docker Sharding Optimization Automation DevOps Pull Request
 Message Queue Latency Optimization Replica Set Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. OAuth Opportunities don't happen. You create them. Event Sourcing Parallel Processing Testing
+Cloud Functions Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Security Message Queue Docker Framework Machine Learning Zero Downtime Deployment CI/CD Python DevOps Code Review
