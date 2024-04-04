@@ -14,3 +14,4 @@ WebSockets Framework Simplicity is the ultimate sophistication. OAuth Latency Op
 API Gateway React Performance Load Testing Logging A/B Testing
 Scalability Python Event-driven Architecture Security Sharding Success is how high you bounce when you hit bottom. Zero Downtime Deployment The only way to do great work is to love what you do.
 Multi-threading JWT Microservices Database Indexing Firewalls Automation Monitoring Act as if what you do makes a difference. It does. A/B Testing
+Success doesn’t just find you. You have to go out and get it. Firewalls DevOps Algorithm Great things never come from comfort zones. Artificial Intelligence Testing To be the best, you must be able to handle the worst. Database Cloud Do what you love and the money will follow. JavaScript Lambda Functions Act as if what you do makes a difference. It does. Logging

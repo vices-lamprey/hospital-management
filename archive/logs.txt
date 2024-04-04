@@ -16,3 +16,4 @@ RabbitMQ Frontend Logging Simplicity is the ultimate sophistication. Kubernetes
 JWT Cache Invalidation Version Control To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Big Data Server Response Performance Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. DevOps Artificial Intelligence
 Replica Set Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Serverless Performance Great things never come from comfort zones.
 Kubernetes Python Security Automation Replica Set
+Great things never come from comfort zones. Database Indexing Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. DevOps If you can dream it, you can do it. Big Data Logging Predictive Analytics Latency Optimization GraphQL
