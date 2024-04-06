@@ -22,3 +22,4 @@ Container Orchestration Microservices Neural Networks Performance CI/CD Don't be
 Virtual Machines If you can dream it, you can do it. Machine Learning Server Response JavaScript Sharding Innovation distinguishes between a leader and a follower.
 Frontend To be the best, you must be able to handle the worst. Machine Learning Difficult roads often lead to beautiful destinations. Load Testing Work hard in silence, let your success be your noise. Neural Networks Database Indexing Cloud Container Orchestration Predictive Analytics
 Load Testing Event Sourcing RabbitMQ Multi-threading Zero Downtime Deployment
+Frontend Dream big and dare to fail. Message Queue RabbitMQ Pull Request OAuth DNS Routing Happiness is not something ready made. It comes from your own actions. Data Pipeline Database Indexing JWT
