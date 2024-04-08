@@ -33,3 +33,4 @@ Big Data Frontend Load Testing Event-driven Architecture Containerization Zero D
 Code Review Python Data Science Quantum Computing Blockchain Cache Invalidation Event-driven Architecture Framework A/B Testing Event Sourcing
 Simplicity is the ultimate sophistication. Multi-threading Parallel Processing Quantum Computing Opportunities don't happen. You create them. Sharding Virtual Machines
 WebSockets Blockchain Kubernetes Monitoring Optimization Python To be the best, you must be able to handle the worst. Framework
+Edge Computing Containerization Automation Success usually comes to those who are too busy to be looking for it. Big Data API Event Sourcing
