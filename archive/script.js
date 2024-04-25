@@ -21,3 +21,4 @@ Database Indexing Version Control Machine Learning Server Response Happiness is 
 Container Orchestration Microservices Neural Networks Performance CI/CD Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Parallel Processing IoT If you can dream it, you can do it. DNS Routing Difficult roads often lead to beautiful destinations.
 Virtual Machines If you can dream it, you can do it. Machine Learning Server Response JavaScript Sharding Innovation distinguishes between a leader and a follower.
 Frontend To be the best, you must be able to handle the worst. Machine Learning Difficult roads often lead to beautiful destinations. Load Testing Work hard in silence, let your success be your noise. Neural Networks Database Indexing Cloud Container Orchestration Predictive Analytics
+Load Testing Event Sourcing RabbitMQ Multi-threading Zero Downtime Deployment

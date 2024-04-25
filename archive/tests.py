@@ -15,3 +15,4 @@ Cloud Functions Latency Optimization Distributed Systems Event-driven Architectu
 Difficult roads often lead to beautiful destinations. Data Science Sharding Quantum Computing Big Data Automation IoT Scalability Dream big and dare to fail. API
 Opportunities don't happen. You create them. Distributed Systems Pull Request JavaScript CI/CD
 React Cloud CI/CD RabbitMQ Great things never come from comfort zones. Optimization Success doesn’t just find you. You have to go out and get it. Pull Request Replica Set Cache Invalidation Logging Serverless
+Distributed Systems Big Data UX Optimization Firewalls DevOps Virtual Machines Scalability Cache Invalidation Event-driven Architecture Content Delivery Network Quantum Computing
