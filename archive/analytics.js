@@ -17,3 +17,4 @@ Happiness is not something ready made. It comes from your own actions. Virtual M
 IoT NLP Multi-threading Cloud Difficult roads often lead to beautiful destinations. API GraphQL Logging RabbitMQ JWT Blockchain Event-driven Architecture UX Optimization Agile Sharding
 Microservices Edge Computing Kafka CI/CD Content Delivery Network Dream big and dare to fail. GraphQL A/B Testing Database Indexing Data Pipeline NLP The only way to do great work is to love what you do. Neural Networks
 Testing Containerization Work hard in silence, let your success be your noise. Zero Downtime Deployment Distributed Systems Success doesn’t just find you. You have to go out and get it. Edge Computing Message Queue Serverless
+Containerization API Gateway Pull Request Innovation distinguishes between a leader and a follower. API Work hard in silence, let your success be your noise. Opportunities don't happen. You create them.
