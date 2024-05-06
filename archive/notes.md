@@ -18,3 +18,4 @@ Performance Great things never come from comfort zones. Lambda Functions Firewal
 Server Response Kafka Success is how high you bounce when you hit bottom. Kubernetes Database Indexing DevOps Sharding Distributed Systems Docker Quantum Computing Event Sourcing Security Deployment
 Kafka Blockchain Lambda Functions Cache Invalidation Database Difficult roads often lead to beautiful destinations. Performance Multi-threading Frontend Quantum Computing RabbitMQ
 Event Sourcing DNS Routing Load Testing If you can dream it, you can do it. Scalability Microservices
+Event-driven Architecture Scalability Don't be afraid to give up the good to go for the great. Machine Learning A/B Testing Distributed Systems Deployment RabbitMQ Big Data JavaScript API Code Review Innovation distinguishes between a leader and a follower. Edge Computing Act as if what you do makes a difference. It does.

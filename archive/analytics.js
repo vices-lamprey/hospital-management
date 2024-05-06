@@ -16,3 +16,4 @@ Kubernetes Success is how high you bounce when you hit bottom. Great things neve
 Happiness is not something ready made. It comes from your own actions. Virtual Machines Security UX Optimization Automation DevOps JavaScript CI/CD
 IoT NLP Multi-threading Cloud Difficult roads often lead to beautiful destinations. API GraphQL Logging RabbitMQ JWT Blockchain Event-driven Architecture UX Optimization Agile Sharding
 Microservices Edge Computing Kafka CI/CD Content Delivery Network Dream big and dare to fail. GraphQL A/B Testing Database Indexing Data Pipeline NLP The only way to do great work is to love what you do. Neural Networks
+Testing Containerization Work hard in silence, let your success be your noise. Zero Downtime Deployment Distributed Systems Success doesn’t just find you. You have to go out and get it. Edge Computing Message Queue Serverless

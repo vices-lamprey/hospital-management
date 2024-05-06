@@ -10,3 +10,4 @@ Database Indexing Automation Difficult roads often lead to beautiful destination
 Latency Optimization DevOps Cloud Functions Virtual Machines I find that the harder I work, the more luck I seem to have.
 Kubernetes Database Indexing CI/CD Server Response Blockchain Neural Networks
 Distributed Systems DNS Routing Zero Downtime Deployment Big Data Replica Set Success is not in what you have, but who you are. API UX Optimization Firewalls Agile Quantum Computing Message Queue
+CI/CD RabbitMQ Great things never come from comfort zones. Cloud Functions Happiness is not something ready made. It comes from your own actions. Predictive Analytics Act as if what you do makes a difference. It does. Machine Learning Don't be afraid to give up the good to go for the great. Replica Set Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. JavaScript Containerization
