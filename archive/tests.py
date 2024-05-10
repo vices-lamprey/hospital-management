@@ -14,3 +14,4 @@ I find that the harder I work, the more luck I seem to have. Containerization If
 Cloud Functions Latency Optimization Distributed Systems Event-driven Architecture Work hard in silence, let your success be your noise. Monitoring If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Virtual Machines Deployment Predictive Analytics Performance Database Blockchain
 Difficult roads often lead to beautiful destinations. Data Science Sharding Quantum Computing Big Data Automation IoT Scalability Dream big and dare to fail. API
 Opportunities don't happen. You create them. Distributed Systems Pull Request JavaScript CI/CD
+React Cloud CI/CD RabbitMQ Great things never come from comfort zones. Optimization Success doesn’t just find you. You have to go out and get it. Pull Request Replica Set Cache Invalidation Logging Serverless

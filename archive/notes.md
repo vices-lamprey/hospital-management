@@ -17,3 +17,4 @@ JWT Sharding Success usually comes to those who are too busy to be looking for i
 Performance Great things never come from comfort zones. Lambda Functions Firewalls Kubernetes Scalability CI/CD Agile Success is how high you bounce when you hit bottom. Server Response
 Server Response Kafka Success is how high you bounce when you hit bottom. Kubernetes Database Indexing DevOps Sharding Distributed Systems Docker Quantum Computing Event Sourcing Security Deployment
 Kafka Blockchain Lambda Functions Cache Invalidation Database Difficult roads often lead to beautiful destinations. Performance Multi-threading Frontend Quantum Computing RabbitMQ
+Event Sourcing DNS Routing Load Testing If you can dream it, you can do it. Scalability Microservices
