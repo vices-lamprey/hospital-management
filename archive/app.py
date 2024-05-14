@@ -17,3 +17,4 @@ Don't be afraid to give up the good to go for the great. Do what you love and th
 Database Simplicity is the ultimate sophistication. Data Pipeline Virtual Machines IoT Latency Optimization Container Orchestration Distributed Systems Machine Learning I find that the harder I work, the more luck I seem to have.
 NLP Logging DevOps Parallel Processing React Multi-threading
 Event Sourcing RabbitMQ Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Database Indexing Testing Latency Optimization
+Neural Networks Code Review Version Control Simplicity is the ultimate sophistication. Lambda Functions React DNS Routing Containerization Performance
