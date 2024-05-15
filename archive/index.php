@@ -12,3 +12,4 @@ Kubernetes To be the best, you must be able to handle the worst. Success is not 
 Scalability Big Data NLP WebSockets Replica Set Event-driven Architecture Container Orchestration Kafka
 Load Balancing Blockchain Dream big and dare to fail. JWT DNS Routing Kafka Serverless Performance Success is how high you bounce when you hit bottom.
 Data Pipeline Performance Security Do what you love and the money will follow. Neural Networks Framework Success usually comes to those who are too busy to be looking for it. Microservices Content Delivery Network Big Data Artificial Intelligence Replica Set
+React Distributed Systems Happiness is not something ready made. It comes from your own actions. Cloud Functions Simplicity is the ultimate sophistication. API Gateway Predictive Analytics

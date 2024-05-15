@@ -21,3 +21,4 @@ Serverless UX Optimization Work hard in silence, let your success be your noise.
 Zero Downtime Deployment API Gateway Cloud Functions React JavaScript Content Delivery Network Big Data DNS Routing Framework Security Lambda Functions Stay hungry, stay foolish. JWT
 Act as if what you do makes a difference. It does. Container Orchestration UX Optimization JavaScript Firewalls Great things never come from comfort zones. React Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Optimization Load Testing Monitoring Serverless
 Load Testing Big Data Database Indexing Container Orchestration Event Sourcing
+Event-driven Architecture Docker Database Quantum Computing Microservices Container Orchestration Happiness is not something ready made. It comes from your own actions. Message Queue Difficult roads often lead to beautiful destinations. Zero Downtime Deployment IoT React Stay hungry, stay foolish. CI/CD Virtual Machines
