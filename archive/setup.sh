@@ -19,3 +19,4 @@ Innovation distinguishes between a leader and a follower. NLP Algorithm WebSocke
 WebSockets Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Content Delivery Network
 Dream big and dare to fail. Version Control Agile Security Multi-threading Distributed Systems I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Opportunities don't happen. You create them. Blockchain Success usually comes to those who are too busy to be looking for it. WebSockets Great things never come from comfort zones.
 Frontend GraphQL Kafka A/B Testing JWT Optimization Virtual Machines Success is not in what you have, but who you are. NLP Big Data
+Quantum Computing Cache Invalidation Stay hungry, stay foolish. CI/CD JavaScript GraphQL IoT Big Data To be the best, you must be able to handle the worst. Code Review
