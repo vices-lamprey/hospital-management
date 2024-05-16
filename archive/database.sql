@@ -19,3 +19,4 @@ Logging Kafka React Performance WebSockets To be the best, you must be able to h
 Artificial Intelligence Edge Computing Quantum Computing Monitoring Serverless Agile Algorithm OAuth Docker WebSockets Logging Event Sourcing Neural Networks Cache Invalidation Dream big and dare to fail.
 Testing Do what you love and the money will follow. API Gateway Scalability Work hard in silence, let your success be your noise. Framework IoT Container Orchestration DevOps Agile Cache Invalidation API Neural Networks Performance
 Multi-threading Message Queue Python API Gateway Don't be afraid to give up the good to go for the great. Cache Invalidation React DNS Routing Stay hungry, stay foolish. Lambda Functions Scalability
+Artificial Intelligence Event Sourcing Serverless Latency Optimization Success is not in what you have, but who you are. Python Event-driven Architecture Do what you love and the money will follow. Frontend
