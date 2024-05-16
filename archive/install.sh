@@ -13,3 +13,4 @@ Security Framework Cloud Success usually comes to those who are too busy to be l
 WebSockets Framework Simplicity is the ultimate sophistication. OAuth Latency Optimization Event Sourcing Success is how high you bounce when you hit bottom.
 API Gateway React Performance Load Testing Logging A/B Testing
 Scalability Python Event-driven Architecture Security Sharding Success is how high you bounce when you hit bottom. Zero Downtime Deployment The only way to do great work is to love what you do.
+Multi-threading JWT Microservices Database Indexing Firewalls Automation Monitoring Act as if what you do makes a difference. It does. A/B Testing
