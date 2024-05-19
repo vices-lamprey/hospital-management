@@ -27,3 +27,4 @@ Algorithm DNS Routing To be the best, you must be able to handle the worst. Code
 JavaScript Containerization Container Orchestration API Do what you love and the money will follow. Load Balancing
 Code Review If you can dream it, you can do it. Agile Data Pipeline RabbitMQ
 Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. Performance Load Balancing Data Pipeline Distributed Systems
+Monitoring Cloud Act as if what you do makes a difference. It does. API Stay hungry, stay foolish. Cache Invalidation Edge Computing
