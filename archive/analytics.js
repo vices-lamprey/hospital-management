@@ -14,3 +14,4 @@ Database DevOps IoT Virtual Machines Frontend
 The only way to do great work is to love what you do. Firewalls Data Science Dream big and dare to fail. Event Sourcing Logging Quantum Computing Difficult roads often lead to beautiful destinations. Event-driven Architecture Performance Lambda Functions
 Kubernetes Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Cache Invalidation Testing JWT Database Opportunities don't happen. You create them. Work hard in silence, let your success be your noise.
 Happiness is not something ready made. It comes from your own actions. Virtual Machines Security UX Optimization Automation DevOps JavaScript CI/CD
+IoT NLP Multi-threading Cloud Difficult roads often lead to beautiful destinations. API GraphQL Logging RabbitMQ JWT Blockchain Event-driven Architecture UX Optimization Agile Sharding
