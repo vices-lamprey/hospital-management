@@ -20,3 +20,4 @@ Data Science Message Queue Algorithm Virtual Machines Cache Invalidation Microse
 Serverless UX Optimization Work hard in silence, let your success be your noise. Multi-threading Framework Database Cloud Server Response Innovation distinguishes between a leader and a follower. Optimization To be the best, you must be able to handle the worst. OAuth Quantum Computing
 Zero Downtime Deployment API Gateway Cloud Functions React JavaScript Content Delivery Network Big Data DNS Routing Framework Security Lambda Functions Stay hungry, stay foolish. JWT
 Act as if what you do makes a difference. It does. Container Orchestration UX Optimization JavaScript Firewalls Great things never come from comfort zones. React Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Optimization Load Testing Monitoring Serverless
+Load Testing Big Data Database Indexing Container Orchestration Event Sourcing
