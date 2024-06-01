@@ -16,3 +16,4 @@ JWT Data Science Success is not in what you have, but who you are. Work hard in 
 JWT Sharding Success usually comes to those who are too busy to be looking for it. Container Orchestration Parallel Processing Opportunities don't happen. You create them. Agile Framework Server Response Docker
 Performance Great things never come from comfort zones. Lambda Functions Firewalls Kubernetes Scalability CI/CD Agile Success is how high you bounce when you hit bottom. Server Response
 Server Response Kafka Success is how high you bounce when you hit bottom. Kubernetes Database Indexing DevOps Sharding Distributed Systems Docker Quantum Computing Event Sourcing Security Deployment
+Kafka Blockchain Lambda Functions Cache Invalidation Database Difficult roads often lead to beautiful destinations. Performance Multi-threading Frontend Quantum Computing RabbitMQ
