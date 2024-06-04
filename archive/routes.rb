@@ -13,3 +13,4 @@ Quantum Computing OAuth Performance Cloud Message Queue Work hard in silence, le
 Lambda Functions IoT Monitoring Event Sourcing Multi-threading Blockchain Kubernetes NLP
 RabbitMQ Stay hungry, stay foolish. Sharding Firewalls Code Review Security Containerization Success is how high you bounce when you hit bottom. A/B Testing Multi-threading
 Logging Data Science Kafka I find that the harder I work, the more luck I seem to have. Docker Optimization API Gateway Artificial Intelligence Event-driven Architecture Success is not in what you have, but who you are.
+Data Science Opportunities don't happen. You create them. Cloud Functions Success is how high you bounce when you hit bottom. Data Pipeline Quantum Computing Innovation distinguishes between a leader and a follower. Optimization NLP
