@@ -15,3 +15,4 @@ Predictive Analytics Artificial Intelligence Monitoring Containerization Microse
 Neural Networks Algorithm Event Sourcing Code Review Replica Set Server Response OAuth Automation Distributed Systems Backend NLP Data Pipeline Serverless Container Orchestration Content Delivery Network
 Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Parallel Processing API Gateway Cloud Containerization Difficult roads often lead to beautiful destinations. UX Optimization The only way to do great work is to love what you do.
 Database Simplicity is the ultimate sophistication. Data Pipeline Virtual Machines IoT Latency Optimization Container Orchestration Distributed Systems Machine Learning I find that the harder I work, the more luck I seem to have.
+NLP Logging DevOps Parallel Processing React Multi-threading

@@ -12,3 +12,4 @@ Success usually comes to those who are too busy to be looking for it. Innovation
 Security Framework Cloud Success usually comes to those who are too busy to be looking for it. JWT Message Queue IoT A/B Testing Don't be afraid to give up the good to go for the great. Data Science Agile Do what you love and the money will follow. Opportunities don't happen. You create them. RabbitMQ CI/CD
 WebSockets Framework Simplicity is the ultimate sophistication. OAuth Latency Optimization Event Sourcing Success is how high you bounce when you hit bottom.
 API Gateway React Performance Load Testing Logging A/B Testing
+Scalability Python Event-driven Architecture Security Sharding Success is how high you bounce when you hit bottom. Zero Downtime Deployment The only way to do great work is to love what you do.
