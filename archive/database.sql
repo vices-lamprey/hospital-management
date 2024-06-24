@@ -15,3 +15,4 @@ Event-driven Architecture Act as if what you do makes a difference. It does. Mes
 Version Control WebSockets Optimization Backend Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Logging Latency Optimization Agile CI/CD
 Deployment Lambda Functions Framework GraphQL Difficult roads often lead to beautiful destinations. A/B Testing OAuth DevOps Logging Python
 DNS Routing The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. UX Optimization Latency Optimization Server Response Machine Learning Don't be afraid to give up the good to go for the great. Version Control API CI/CD Cloud Functions Opportunities don't happen. You create them. Code Review
+Logging Kafka React Performance WebSockets To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. JWT Edge Computing
