@@ -25,3 +25,4 @@ API Gateway Data Pipeline If you can dream it, you can do it. Neural Networks Pa
 Quantum Computing Automation Data Pipeline Security Algorithm Testing Python
 Algorithm DNS Routing To be the best, you must be able to handle the worst. Code Review Firewalls
 JavaScript Containerization Container Orchestration API Do what you love and the money will follow. Load Balancing
+Code Review If you can dream it, you can do it. Agile Data Pipeline RabbitMQ
