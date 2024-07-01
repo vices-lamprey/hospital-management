@@ -14,3 +14,4 @@ Version Control Virtual Machines Monitoring To be the best, you must be able to 
 Docker Kafka Version Control Dream big and dare to fail. Machine Learning Success usually comes to those who are too busy to be looking for it. A/B Testing Database Agile Security Python Simplicity is the ultimate sophistication.
 Success is not in what you have, but who you are. Deployment NLP Edge Computing Zero Downtime Deployment Optimization A/B Testing
 Machine Learning Backend Logging Scalability WebSockets UX Optimization Distributed Systems The only way to do great work is to love what you do. Message Queue
+Replica Set Great things never come from comfort zones. Artificial Intelligence Deployment Server Response IoT DevOps Data Pipeline Security Frontend
