@@ -24,3 +24,4 @@ Load Balancing Predictive Analytics Act as if what you do makes a difference. It
 API Gateway Data Pipeline If you can dream it, you can do it. Neural Networks Parallel Processing RabbitMQ Container Orchestration Machine Learning Great things never come from comfort zones. Code Review Frontend JWT Opportunities don't happen. You create them. Do what you love and the money will follow.
 Quantum Computing Automation Data Pipeline Security Algorithm Testing Python
 Algorithm DNS Routing To be the best, you must be able to handle the worst. Code Review Firewalls
+JavaScript Containerization Container Orchestration API Do what you love and the money will follow. Load Balancing
