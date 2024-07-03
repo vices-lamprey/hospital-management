@@ -12,3 +12,4 @@ Difficult roads often lead to beautiful destinations. Success usually comes to t
 Quantum Computing OAuth Performance Cloud Message Queue Work hard in silence, let your success be your noise. Sharding API CI/CD Zero Downtime Deployment Version Control Event Sourcing Success doesn’t just find you. You have to go out and get it. Big Data Monitoring
 Lambda Functions IoT Monitoring Event Sourcing Multi-threading Blockchain Kubernetes NLP
 RabbitMQ Stay hungry, stay foolish. Sharding Firewalls Code Review Security Containerization Success is how high you bounce when you hit bottom. A/B Testing Multi-threading
+Logging Data Science Kafka I find that the harder I work, the more luck I seem to have. Docker Optimization API Gateway Artificial Intelligence Event-driven Architecture Success is not in what you have, but who you are.
