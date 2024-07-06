@@ -12,3 +12,4 @@ Backend Innovation distinguishes between a leader and a follower. Do what you lo
 React Sharding Load Balancing Lambda Functions UX Optimization Event-driven Architecture Multi-threading
 API Gateway Difficult roads often lead to beautiful destinations. Deployment Predictive Analytics Frontend Event Sourcing Dream big and dare to fail. Message Queue Kafka API JavaScript WebSockets
 Python GraphQL Automation To be the best, you must be able to handle the worst. Event-driven Architecture WebSockets Optimization Message Queue Sharding Algorithm Pull Request Frontend Do what you love and the money will follow. Container Orchestration
+RabbitMQ Frontend Logging Simplicity is the ultimate sophistication. Kubernetes
