@@ -13,3 +13,4 @@ Distributed Systems Success is how high you bounce when you hit bottom. Predicti
 Optimization JWT Deployment Data Pipeline Cache Invalidation Virtual Machines I find that the harder I work, the more luck I seem to have. Containerization Container Orchestration
 Event-driven Architecture Act as if what you do makes a difference. It does. Message Queue Happiness is not something ready made. It comes from your own actions. Backend Database Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Cache Invalidation
 Version Control WebSockets Optimization Backend Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Logging Latency Optimization Agile CI/CD
+Deployment Lambda Functions Framework GraphQL Difficult roads often lead to beautiful destinations. A/B Testing OAuth DevOps Logging Python

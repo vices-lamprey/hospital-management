@@ -16,3 +16,4 @@ Latency Optimization Edge Computing RabbitMQ Security Event-driven Architecture 
 JavaScript Replica Set Pull Request Kubernetes DevOps Performance Container Orchestration Don't be afraid to give up the good to go for the great. Microservices React
 Zero Downtime Deployment Code Review Cloud Functions DNS Routing Simplicity is the ultimate sophistication. Quantum Computing
 Innovation distinguishes between a leader and a follower. NLP Algorithm WebSockets Work hard in silence, let your success be your noise. Multi-threading Kafka JWT Quantum Computing Data Pipeline Scalability Database Cloud Event Sourcing
+WebSockets Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Content Delivery Network
