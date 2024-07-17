@@ -17,3 +17,4 @@ Automation Success is not in what you have, but who you are. Do what you love an
 Great things never come from comfort zones. Distributed Systems Sharding NLP Zero Downtime Deployment Automation Parallel Processing Performance Frontend Message Queue
 Microservices Do what you love and the money will follow. Testing OAuth Monitoring Docker Artificial Intelligence NLP Message Queue Act as if what you do makes a difference. It does. Multi-threading Load Balancing Sharding Don't be afraid to give up the good to go for the great.
 Data Science Message Queue Algorithm Virtual Machines Cache Invalidation Microservices IoT Load Balancing Database Indexing Security Replica Set
+Serverless UX Optimization Work hard in silence, let your success be your noise. Multi-threading Framework Database Cloud Server Response Innovation distinguishes between a leader and a follower. Optimization To be the best, you must be able to handle the worst. OAuth Quantum Computing
