@@ -8,3 +8,4 @@ Testing Monitoring Agile I find that the harder I work, the more luck I seem to 
 A/B Testing Framework Database Indexing Container Orchestration Dream big and dare to fail. Big Data Difficult roads often lead to beautiful destinations. Multi-threading Pull Request Quantum Computing Neural Networks Edge Computing JavaScript Cloud Functions
 Backend Optimization Parallel Processing Microservices GraphQL Do what you love and the money will follow. Docker
 JWT Data Pipeline Do what you love and the money will follow. Monitoring Database Logging
+Kubernetes To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Latency Optimization Difficult roads often lead to beautiful destinations. Framework API Gateway
