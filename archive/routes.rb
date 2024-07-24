@@ -11,3 +11,4 @@ CI/CD Artificial Intelligence Agile Event Sourcing DevOps UX Optimization I find
 Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Kafka Scalability Code Review Success doesn’t just find you. You have to go out and get it. Server Response JavaScript Dream big and dare to fail. Containerization Quantum Computing Sharding Database Predictive Analytics
 Quantum Computing OAuth Performance Cloud Message Queue Work hard in silence, let your success be your noise. Sharding API CI/CD Zero Downtime Deployment Version Control Event Sourcing Success doesn’t just find you. You have to go out and get it. Big Data Monitoring
 Lambda Functions IoT Monitoring Event Sourcing Multi-threading Blockchain Kubernetes NLP
+RabbitMQ Stay hungry, stay foolish. Sharding Firewalls Code Review Security Containerization Success is how high you bounce when you hit bottom. A/B Testing Multi-threading
