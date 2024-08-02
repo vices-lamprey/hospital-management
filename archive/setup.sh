@@ -14,3 +14,4 @@ Innovation distinguishes between a leader and a follower. DNS Routing Multi-thre
 Latency Optimization Lambda Functions Stay hungry, stay foolish. Multi-threading Agile Optimization Do what you love and the money will follow. Frontend Parallel Processing Firewalls
 Latency Optimization Edge Computing RabbitMQ Security Event-driven Architecture Server Response
 JavaScript Replica Set Pull Request Kubernetes DevOps Performance Container Orchestration Don't be afraid to give up the good to go for the great. Microservices React
+Zero Downtime Deployment Code Review Cloud Functions DNS Routing Simplicity is the ultimate sophistication. Quantum Computing

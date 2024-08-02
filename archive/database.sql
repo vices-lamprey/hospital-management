@@ -12,3 +12,4 @@ Stay hungry, stay foolish. The only way to do great work is to love what you do.
 Distributed Systems Success is how high you bounce when you hit bottom. Predictive Analytics Backend Zero Downtime Deployment Agile API Lambda Functions Version Control
 Optimization JWT Deployment Data Pipeline Cache Invalidation Virtual Machines I find that the harder I work, the more luck I seem to have. Containerization Container Orchestration
 Event-driven Architecture Act as if what you do makes a difference. It does. Message Queue Happiness is not something ready made. It comes from your own actions. Backend Database Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Cache Invalidation
+Version Control WebSockets Optimization Backend Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Logging Latency Optimization Agile CI/CD

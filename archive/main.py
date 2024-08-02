@@ -10,3 +10,4 @@ The only way to do great work is to love what you do. Containerization Distribut
 Quantum Computing Cache Invalidation Monitoring Parallel Processing Data Pipeline Zero Downtime Deployment Great things never come from comfort zones. The only way to do great work is to love what you do.
 Server Response Version Control Data Pipeline Algorithm Artificial Intelligence DevOps Success is not in what you have, but who you are.
 Code Review API Gateway Work hard in silence, let your success be your noise. Security Cache Invalidation Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst.
+Version Control Virtual Machines Monitoring To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Content Delivery Network GraphQL Deployment Testing IoT Work hard in silence, let your success be your noise. Agile Docker CI/CD Database
