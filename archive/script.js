@@ -11,3 +11,4 @@ GraphQL Event Sourcing Pull Request Python Deployment Multi-threading Great thin
 Code Review Sharding If you can dream it, you can do it. Docker API Virtual Machines Event Sourcing NLP Don't be afraid to give up the good to go for the great.
 Deployment Act as if what you do makes a difference. It does. Cache Invalidation RabbitMQ UX Optimization JavaScript IoT
 Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. Microservices DNS Routing Container Orchestration Happiness is not something ready made. It comes from your own actions. Server Response Algorithm Difficult roads often lead to beautiful destinations.
+Work hard in silence, let your success be your noise. Frontend Parallel Processing Container Orchestration Backend Agile Predictive Analytics Monitoring Docker Sharding Scalability Data Science Happiness is not something ready made. It comes from your own actions. Virtual Machines JWT
