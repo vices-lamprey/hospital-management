@@ -13,3 +13,4 @@ Performance UX Optimization Microservices Latency Optimization Database IoT CI/C
 Innovation distinguishes between a leader and a follower. DNS Routing Multi-threading Logging JWT Event-driven Architecture Pull Request Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Machine Learning Event Sourcing Stay hungry, stay foolish. API Framework Python
 Latency Optimization Lambda Functions Stay hungry, stay foolish. Multi-threading Agile Optimization Do what you love and the money will follow. Frontend Parallel Processing Firewalls
 Latency Optimization Edge Computing RabbitMQ Security Event-driven Architecture Server Response
+JavaScript Replica Set Pull Request Kubernetes DevOps Performance Container Orchestration Don't be afraid to give up the good to go for the great. Microservices React

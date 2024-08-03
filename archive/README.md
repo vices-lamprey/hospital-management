@@ -13,3 +13,4 @@ Happiness is not something ready made. It comes from your own actions. JWT Event
 Container Orchestration Performance Sharding React Python
 Data Science If you can dream it, you can do it. IoT GraphQL Parallel Processing Optimization Sharding Cloud Functions Backend Cloud Opportunities don't happen. You create them. Replica Set Multi-threading
 The only way to do great work is to love what you do. Deployment Big Data Cloud Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. OAuth Security Lambda Functions Performance DNS Routing Agile
+Latency Optimization Algorithm Don't be afraid to give up the good to go for the great. Data Pipeline IoT Microservices
