@@ -20,3 +20,4 @@ Automation Success is not in what you have, but who you are. Difficult roads oft
 Database Cloud Functions Testing Difficult roads often lead to beautiful destinations. Load Testing To be the best, you must be able to handle the worst.
 Serverless Simplicity is the ultimate sophistication. Machine Learning Artificial Intelligence Testing
 Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Version Control Container Orchestration The only way to do great work is to love what you do. Frontend Success doesn’t just find you. You have to go out and get it.
+Load Balancing Predictive Analytics Act as if what you do makes a difference. It does. Database Great things never come from comfort zones. Big Data Containerization Code Review Firewalls Deployment Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication.
