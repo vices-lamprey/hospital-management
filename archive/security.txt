@@ -16,3 +16,4 @@ Great things never come from comfort zones. Load Testing Serverless Blockchain N
 Automation Algorithm Containerization GraphQL Edge Computing Frontend Predictive Analytics Cache Invalidation Security Logging Multi-threading
 Don't be afraid to give up the good to go for the great. Logging I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Message Queue
 Success usually comes to those who are too busy to be looking for it. Neural Networks Database Event-driven Architecture A/B Testing Edge Computing Virtual Machines Server Response Machine Learning Difficult roads often lead to beautiful destinations.
+Parallel Processing Machine Learning The only way to do great work is to love what you do. WebSockets Agile If you can dream it, you can do it. CI/CD JWT Database Blockchain Kubernetes Stay hungry, stay foolish. API Cloud
