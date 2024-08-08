@@ -11,3 +11,4 @@ To be the best, you must be able to handle the worst. Sharding If you can dream 
 Docker Message Queue Data Science Happiness is not something ready made. It comes from your own actions. Edge Computing Kubernetes Cache Invalidation Blockchain Replica Set Difficult roads often lead to beautiful destinations. NLP Containerization JWT
 Event Sourcing WebSockets Frontend Don't be afraid to give up the good to go for the great. Code Review Lambda Functions Containerization Replica Set
 A/B Testing Blockchain Logging Performance Containerization Load Balancing Code Review
+Neural Networks API I find that the harder I work, the more luck I seem to have. API Gateway Innovation distinguishes between a leader and a follower. Framework Backend Testing Pull Request Zero Downtime Deployment Database

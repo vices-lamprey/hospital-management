@@ -9,3 +9,4 @@ Simplicity is the ultimate sophistication. DNS Routing Database Success doesn’t 
 The only way to do great work is to love what you do. Containerization Distributed Systems Innovation distinguishes between a leader and a follower. Backend Optimization
 Quantum Computing Cache Invalidation Monitoring Parallel Processing Data Pipeline Zero Downtime Deployment Great things never come from comfort zones. The only way to do great work is to love what you do.
 Server Response Version Control Data Pipeline Algorithm Artificial Intelligence DevOps Success is not in what you have, but who you are.
+Code Review API Gateway Work hard in silence, let your success be your noise. Security Cache Invalidation Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst.
