@@ -15,3 +15,4 @@ DevOps WebSockets Multi-threading Act as if what you do makes a difference. It d
 Great things never come from comfort zones. Load Testing Serverless Blockchain NLP Difficult roads often lead to beautiful destinations. Kafka WebSockets IoT Stay hungry, stay foolish. Virtual Machines Version Control Logging DevOps
 Automation Algorithm Containerization GraphQL Edge Computing Frontend Predictive Analytics Cache Invalidation Security Logging Multi-threading
 Don't be afraid to give up the good to go for the great. Logging I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Message Queue
+Success usually comes to those who are too busy to be looking for it. Neural Networks Database Event-driven Architecture A/B Testing Edge Computing Virtual Machines Server Response Machine Learning Difficult roads often lead to beautiful destinations.
