@@ -13,3 +13,4 @@ Microservices GraphQL Algorithm UX Optimization Cache Invalidation Automation Ve
 Load Testing The only way to do great work is to love what you do. DNS Routing Parallel Processing OAuth Kafka Edge Computing Zero Downtime Deployment API Gateway Machine Learning I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Virtual Machines
 Stay hungry, stay foolish. Blockchain IoT Content Delivery Network Monitoring Zero Downtime Deployment Algorithm
 Neural Networks Optimization React Performance If you can dream it, you can do it. Event Sourcing Agile Success is not in what you have, but who you are. Work hard in silence, let your success be your noise.
+Load Balancing Framework Blockchain Parallel Processing Simplicity is the ultimate sophistication. Quantum Computing

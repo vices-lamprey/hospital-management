@@ -19,3 +19,4 @@ Work hard in silence, let your success be your noise. Code Review Sharding API S
 Automation Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Machine Learning Happiness is not something ready made. It comes from your own actions. Performance WebSockets Edge Computing Serverless DevOps NLP
 Database Cloud Functions Testing Difficult roads often lead to beautiful destinations. Load Testing To be the best, you must be able to handle the worst.
 Serverless Simplicity is the ultimate sophistication. Machine Learning Artificial Intelligence Testing
+Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Version Control Container Orchestration The only way to do great work is to love what you do. Frontend Success doesn’t just find you. You have to go out and get it.
