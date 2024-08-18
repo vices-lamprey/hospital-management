@@ -11,3 +11,4 @@ Kafka Agile Pull Request Version Control A/B Testing Machine Learning Code Revie
 UX Optimization Replica Set React Version Control Predictive Analytics Success usually comes to those who are too busy to be looking for it. Scalability Frontend Sharding
 Performance UX Optimization Microservices Latency Optimization Database IoT CI/CD Server Response Artificial Intelligence
 Innovation distinguishes between a leader and a follower. DNS Routing Multi-threading Logging JWT Event-driven Architecture Pull Request Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Machine Learning Event Sourcing Stay hungry, stay foolish. API Framework Python
+Latency Optimization Lambda Functions Stay hungry, stay foolish. Multi-threading Agile Optimization Do what you love and the money will follow. Frontend Parallel Processing Firewalls

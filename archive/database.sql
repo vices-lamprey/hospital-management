@@ -10,3 +10,4 @@ RabbitMQ Logging API Database Indexing Kubernetes CI/CD
 OAuth To be the best, you must be able to handle the worst. Containerization The only way to do great work is to love what you do. Data Pipeline Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Content Delivery Network Event Sourcing DNS Routing
 Stay hungry, stay foolish. The only way to do great work is to love what you do. Containerization Simplicity is the ultimate sophistication. Event Sourcing Act as if what you do makes a difference. It does.
 Distributed Systems Success is how high you bounce when you hit bottom. Predictive Analytics Backend Zero Downtime Deployment Agile API Lambda Functions Version Control
+Optimization JWT Deployment Data Pipeline Cache Invalidation Virtual Machines I find that the harder I work, the more luck I seem to have. Containerization Container Orchestration
