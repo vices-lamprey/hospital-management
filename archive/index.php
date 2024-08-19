@@ -5,3 +5,4 @@ Testing Replica Set Great things never come from comfort zones. Machine Learning
 Load Balancing CI/CD Kubernetes IoT Serverless NLP Kafka Data Pipeline Database Indexing WebSockets RabbitMQ Simplicity is the ultimate sophistication.
 Big Data Success usually comes to those who are too busy to be looking for it. Load Testing Agile Python
 Testing Monitoring Agile I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Load Balancing Security WebSockets Event-driven Architecture Deployment API Machine Learning Performance Work hard in silence, let your success be your noise.
+A/B Testing Framework Database Indexing Container Orchestration Dream big and dare to fail. Big Data Difficult roads often lead to beautiful destinations. Multi-threading Pull Request Quantum Computing Neural Networks Edge Computing JavaScript Cloud Functions

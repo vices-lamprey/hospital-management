@@ -6,3 +6,4 @@ Logging Don't be afraid to give up the good to go for the great. GraphQL Edge Co
 Stay hungry, stay foolish. Microservices NLP Python Data Science If you can dream it, you can do it. Server Response Event Sourcing Latency Optimization Backend Edge Computing
 Agile Event Sourcing JWT Monitoring Performance React Lambda Functions Database Multi-threading Automation Replica Set Frontend CI/CD
 Predictive Analytics API Sharding Containerization Latency Optimization WebSockets Code Review Success doesn’t just find you. You have to go out and get it. Replica Set Deployment Edge Computing
+Database Indexing Automation Difficult roads often lead to beautiful destinations. Database Framework A/B Testing WebSockets Container Orchestration Zero Downtime Deployment Latency Optimization Microservices DevOps React Success is how high you bounce when you hit bottom.
