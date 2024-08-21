@@ -9,3 +9,4 @@ Framework Security UX Optimization To be the best, you must be able to handle th
 Difficult roads often lead to beautiful destinations. Load Testing Dream big and dare to fail. Algorithm Innovation distinguishes between a leader and a follower. Data Pipeline
 Firewalls Sharding Great things never come from comfort zones. Lambda Functions JWT Content Delivery Network CI/CD Python Opportunities don't happen. You create them. Docker
 JavaScript Parallel Processing Serverless Agile Do what you love and the money will follow. Performance Event-driven Architecture Data Science Success doesn’t just find you. You have to go out and get it. Server Response Docker Pull Request Work hard in silence, let your success be your noise.
+Act as if what you do makes a difference. It does. Artificial Intelligence DevOps API Gateway Automation
