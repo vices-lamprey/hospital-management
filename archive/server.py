@@ -15,3 +15,4 @@ Latency Optimization API Simplicity is the ultimate sophistication. Dream big an
 Stay hungry, stay foolish. Distributed Systems Database Indexing Edge Computing Logging Docker Data Pipeline Don't be afraid to give up the good to go for the great. Algorithm Virtual Machines
 Automation Success is not in what you have, but who you are. Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Python
 Great things never come from comfort zones. Distributed Systems Sharding NLP Zero Downtime Deployment Automation Parallel Processing Performance Frontend Message Queue
+Microservices Do what you love and the money will follow. Testing OAuth Monitoring Docker Artificial Intelligence NLP Message Queue Act as if what you do makes a difference. It does. Multi-threading Load Balancing Sharding Don't be afraid to give up the good to go for the great.

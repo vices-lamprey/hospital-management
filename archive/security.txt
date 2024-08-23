@@ -12,3 +12,4 @@ OAuth Multi-threading Don't be afraid to give up the good to go for the great. A
 Load Balancing Firewalls Framework Data Science DevOps Optimization Success is not in what you have, but who you are. Load Testing Big Data Happiness is not something ready made. It comes from your own actions. Database Indexing Security Sharding
 DNS Routing I find that the harder I work, the more luck I seem to have. UX Optimization Automation OAuth
 DevOps WebSockets Multi-threading Act as if what you do makes a difference. It does. Do what you love and the money will follow. To be the best, you must be able to handle the worst. API Event Sourcing GraphQL
+Great things never come from comfort zones. Load Testing Serverless Blockchain NLP Difficult roads often lead to beautiful destinations. Kafka WebSockets IoT Stay hungry, stay foolish. Virtual Machines Version Control Logging DevOps
