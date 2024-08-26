@@ -18,3 +18,4 @@ DNS Routing Load Balancing Docker Security Kubernetes Do what you love and the m
 Work hard in silence, let your success be your noise. Code Review Sharding API Success is not in what you have, but who you are. Big Data Server Response
 Automation Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Machine Learning Happiness is not something ready made. It comes from your own actions. Performance WebSockets Edge Computing Serverless DevOps NLP
 Database Cloud Functions Testing Difficult roads often lead to beautiful destinations. Load Testing To be the best, you must be able to handle the worst.
+Serverless Simplicity is the ultimate sophistication. Machine Learning Artificial Intelligence Testing
