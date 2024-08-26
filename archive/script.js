@@ -9,3 +9,4 @@ Innovation distinguishes between a leader and a follower. Server Response Lambda
 If you can dream it, you can do it. JWT Load Testing Cloud Functions OAuth Parallel Processing Containerization
 GraphQL Event Sourcing Pull Request Python Deployment Multi-threading Great things never come from comfort zones.
 Code Review Sharding If you can dream it, you can do it. Docker API Virtual Machines Event Sourcing NLP Don't be afraid to give up the good to go for the great.
+Deployment Act as if what you do makes a difference. It does. Cache Invalidation RabbitMQ UX Optimization JavaScript IoT
