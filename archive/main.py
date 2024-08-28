@@ -7,3 +7,4 @@ Distributed Systems Act as if what you do makes a difference. It does. Backend C
 Server Response Cloud Functions Logging API Predictive Analytics Lambda Functions Don't be afraid to give up the good to go for the great. Deployment I find that the harder I work, the more luck I seem to have. Agile Neural Networks Kafka
 Simplicity is the ultimate sophistication. DNS Routing Database Success doesn’t just find you. You have to go out and get it. IoT Agile Opportunities don't happen. You create them. The only way to do great work is to love what you do. Security
 The only way to do great work is to love what you do. Containerization Distributed Systems Innovation distinguishes between a leader and a follower. Backend Optimization
+Quantum Computing Cache Invalidation Monitoring Parallel Processing Data Pipeline Zero Downtime Deployment Great things never come from comfort zones. The only way to do great work is to love what you do.

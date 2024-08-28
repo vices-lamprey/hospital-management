@@ -8,3 +8,4 @@ Optimization Performance Scalability Containerization UX Optimization Load Testi
 Innovation distinguishes between a leader and a follower. Server Response Lambda Functions Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Kubernetes OAuth Containerization Container Orchestration
 If you can dream it, you can do it. JWT Load Testing Cloud Functions OAuth Parallel Processing Containerization
 GraphQL Event Sourcing Pull Request Python Deployment Multi-threading Great things never come from comfort zones.
+Code Review Sharding If you can dream it, you can do it. Docker API Virtual Machines Event Sourcing NLP Don't be afraid to give up the good to go for the great.
