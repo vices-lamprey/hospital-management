@@ -9,3 +9,4 @@ Happiness is not something ready made. It comes from your own actions. Cache Inv
 Great things never come from comfort zones. Database Indexing Code Review Automation Cloud Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Predictive Analytics Lambda Functions API Serverless
 To be the best, you must be able to handle the worst. Sharding If you can dream it, you can do it. JavaScript OAuth Backend Stay hungry, stay foolish. Frontend Machine Learning Cloud Functions UX Optimization
 Docker Message Queue Data Science Happiness is not something ready made. It comes from your own actions. Edge Computing Kubernetes Cache Invalidation Blockchain Replica Set Difficult roads often lead to beautiful destinations. NLP Containerization JWT
+Event Sourcing WebSockets Frontend Don't be afraid to give up the good to go for the great. Code Review Lambda Functions Containerization Replica Set
