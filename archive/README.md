@@ -11,3 +11,4 @@ Edge Computing Python If you can dream it, you can do it. Data Science Agile Lat
 OAuth Optimization GraphQL Latency Optimization Firewalls
 Happiness is not something ready made. It comes from your own actions. JWT Event Sourcing OAuth Success doesn’t just find you. You have to go out and get it. Multi-threading Artificial Intelligence RabbitMQ
 Container Orchestration Performance Sharding React Python
+Data Science If you can dream it, you can do it. IoT GraphQL Parallel Processing Optimization Sharding Cloud Functions Backend Cloud Opportunities don't happen. You create them. Replica Set Multi-threading
