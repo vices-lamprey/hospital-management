@@ -12,3 +12,4 @@ A/B Testing Machine Learning Stay hungry, stay foolish. Cache Invalidation Data 
 Microservices GraphQL Algorithm UX Optimization Cache Invalidation Automation Version Control Great things never come from comfort zones. Agile Simplicity is the ultimate sophistication. DevOps Scalability Deployment JavaScript
 Load Testing The only way to do great work is to love what you do. DNS Routing Parallel Processing OAuth Kafka Edge Computing Zero Downtime Deployment API Gateway Machine Learning I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Virtual Machines
 Stay hungry, stay foolish. Blockchain IoT Content Delivery Network Monitoring Zero Downtime Deployment Algorithm
+Neural Networks Optimization React Performance If you can dream it, you can do it. Event Sourcing Agile Success is not in what you have, but who you are. Work hard in silence, let your success be your noise.

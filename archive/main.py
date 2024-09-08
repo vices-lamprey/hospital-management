@@ -5,3 +5,4 @@ Event Sourcing NLP Agile Logging DNS Routing
 JWT Multi-threading Database Cache Invalidation Event-driven Architecture To be the best, you must be able to handle the worst. Firewalls Cloud Success is not in what you have, but who you are. Kubernetes Message Queue Quantum Computing Neural Networks
 Distributed Systems Act as if what you do makes a difference. It does. Backend Content Delivery Network API Gateway Success usually comes to those who are too busy to be looking for it. IoT
 Server Response Cloud Functions Logging API Predictive Analytics Lambda Functions Don't be afraid to give up the good to go for the great. Deployment I find that the harder I work, the more luck I seem to have. Agile Neural Networks Kafka
+Simplicity is the ultimate sophistication. DNS Routing Database Success doesn’t just find you. You have to go out and get it. IoT Agile Opportunities don't happen. You create them. The only way to do great work is to love what you do. Security
