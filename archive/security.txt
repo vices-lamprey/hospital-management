@@ -9,3 +9,4 @@ Predictive Analytics Latency Optimization Testing Lambda Functions Python
 Code Review Data Science Optimization Load Balancing Containerization Multi-threading Zero Downtime Deployment
 Content Delivery Network Serverless Success usually comes to those who are too busy to be looking for it. Python Kafka Frontend
 OAuth Multi-threading Don't be afraid to give up the good to go for the great. A/B Testing Cache Invalidation Container Orchestration Code Review Kafka Data Science Frontend Load Testing Algorithm Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it.
+Load Balancing Firewalls Framework Data Science DevOps Optimization Success is not in what you have, but who you are. Load Testing Big Data Happiness is not something ready made. It comes from your own actions. Database Indexing Security Sharding
