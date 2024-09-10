@@ -17,3 +17,4 @@ Database Indexing Success doesn’t just find you. You have to go out and get it. 
 DNS Routing Load Balancing Docker Security Kubernetes Do what you love and the money will follow. Great things never come from comfort zones. Testing To be the best, you must be able to handle the worst. Pull Request Simplicity is the ultimate sophistication. Version Control Container Orchestration
 Work hard in silence, let your success be your noise. Code Review Sharding API Success is not in what you have, but who you are. Big Data Server Response
 Automation Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Machine Learning Happiness is not something ready made. It comes from your own actions. Performance WebSockets Edge Computing Serverless DevOps NLP
+Database Cloud Functions Testing Difficult roads often lead to beautiful destinations. Load Testing To be the best, you must be able to handle the worst.
