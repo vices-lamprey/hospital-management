@@ -7,3 +7,4 @@ Virtual Machines Automation Great things never come from comfort zones. Success 
 Cloud Functions Deployment Stay hungry, stay foolish. Neural Networks Zero Downtime Deployment Dream big and dare to fail. Quantum Computing RabbitMQ
 Predictive Analytics Latency Optimization Testing Lambda Functions Python
 Code Review Data Science Optimization Load Balancing Containerization Multi-threading Zero Downtime Deployment
+Content Delivery Network Serverless Success usually comes to those who are too busy to be looking for it. Python Kafka Frontend
