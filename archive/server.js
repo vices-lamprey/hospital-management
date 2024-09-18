@@ -11,3 +11,4 @@ Security NLP Neural Networks Do what you love and the money will follow. Simplic
 A/B Testing Machine Learning Stay hungry, stay foolish. Cache Invalidation Data Science Automation JWT
 Microservices GraphQL Algorithm UX Optimization Cache Invalidation Automation Version Control Great things never come from comfort zones. Agile Simplicity is the ultimate sophistication. DevOps Scalability Deployment JavaScript
 Load Testing The only way to do great work is to love what you do. DNS Routing Parallel Processing OAuth Kafka Edge Computing Zero Downtime Deployment API Gateway Machine Learning I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Virtual Machines
+Stay hungry, stay foolish. Blockchain IoT Content Delivery Network Monitoring Zero Downtime Deployment Algorithm
