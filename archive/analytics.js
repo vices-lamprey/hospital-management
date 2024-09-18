@@ -10,3 +10,4 @@ Latency Optimization Database Data Pipeline Machine Learning Edge Computing Mess
 Serverless Replica Set Docker Data Science Multi-threading
 Frontend Sharding Predictive Analytics Firewalls Distributed Systems Cache Invalidation IoT Don't be afraid to give up the good to go for the great. JWT Cloud Logging Blockchain Edge Computing
 Virtual Machines JWT Data Pipeline Cloud JavaScript Blockchain DevOps A/B Testing If you can dream it, you can do it. Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. IoT Performance Database Indexing
+Database DevOps IoT Virtual Machines Frontend

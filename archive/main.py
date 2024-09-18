@@ -4,3 +4,4 @@ Performance I find that the harder I work, the more luck I seem to have. GraphQL
 Event Sourcing NLP Agile Logging DNS Routing
 JWT Multi-threading Database Cache Invalidation Event-driven Architecture To be the best, you must be able to handle the worst. Firewalls Cloud Success is not in what you have, but who you are. Kubernetes Message Queue Quantum Computing Neural Networks
 Distributed Systems Act as if what you do makes a difference. It does. Backend Content Delivery Network API Gateway Success usually comes to those who are too busy to be looking for it. IoT
+Server Response Cloud Functions Logging API Predictive Analytics Lambda Functions Don't be afraid to give up the good to go for the great. Deployment I find that the harder I work, the more luck I seem to have. Agile Neural Networks Kafka
