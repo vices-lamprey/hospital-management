@@ -10,3 +10,4 @@ DevOps Pull Request Dream big and dare to fail. Scalability Frontend Framework T
 Predictive Analytics Automation Latency Optimization Virtual Machines CI/CD Performance Frontend Do what you love and the money will follow. JavaScript Firewalls Logging UX Optimization Multi-threading
 Parallel Processing OAuth Scalability Multi-threading Cache Invalidation Machine Learning Load Balancing Performance Serverless Content Delivery Network Work hard in silence, let your success be your noise.
 API A/B Testing Great things never come from comfort zones. Firewalls CI/CD Microservices Artificial Intelligence Testing Neural Networks Container Orchestration Act as if what you do makes a difference. It does. Virtual Machines
+Data Science Algorithm IoT Version Control Opportunities don't happen. You create them. Predictive Analytics Container Orchestration Scalability Dream big and dare to fail. Edge Computing DNS Routing Parallel Processing
