@@ -2,3 +2,4 @@ Data Science Big Data Database Performance NLP Kafka Event Sourcing
 Load Balancing Blockchain Zero Downtime Deployment Cloud Functions CI/CD Stay hungry, stay foolish.
 React Success usually comes to those who are too busy to be looking for it. Quantum Computing DevOps Message Queue A/B Testing Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Code Review Multi-threading Sharding
 Blockchain Predictive Analytics Testing Event Sourcing Stay hungry, stay foolish. Deployment Cloud CI/CD Optimization Performance WebSockets Dream big and dare to fail. Security Python
+If you can dream it, you can do it. DNS Routing Scalability Serverless Firewalls I find that the harder I work, the more luck I seem to have. Deployment Event Sourcing Work hard in silence, let your success be your noise. API Gateway Algorithm Docker Distributed Systems Artificial Intelligence
