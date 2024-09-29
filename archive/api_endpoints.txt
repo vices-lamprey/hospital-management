@@ -3,3 +3,4 @@ Parallel Processing Innovation distinguishes between a leader and a follower. Su
 GraphQL OAuth Dream big and dare to fail. Virtual Machines Zero Downtime Deployment Testing API API Gateway
 Event-driven Architecture Multi-threading Innovation distinguishes between a leader and a follower. Frontend Server Response Opportunities don't happen. You create them. JavaScript Database
 Logging Don't be afraid to give up the good to go for the great. GraphQL Edge Computing Opportunities don't happen. You create them. Cache Invalidation Event Sourcing JavaScript To be the best, you must be able to handle the worst. Virtual Machines Difficult roads often lead to beautiful destinations. Database Indexing Framework Latency Optimization Stay hungry, stay foolish.
+Stay hungry, stay foolish. Microservices NLP Python Data Science If you can dream it, you can do it. Server Response Event Sourcing Latency Optimization Backend Edge Computing
