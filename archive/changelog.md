@@ -12,3 +12,4 @@ Monitoring RabbitMQ Backend IoT WebSockets
 DevOps Predictive Analytics API Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. WebSockets Latency Optimization Firewalls Testing JavaScript Performance Database Indexing Optimization Framework
 To be the best, you must be able to handle the worst. WebSockets Zero Downtime Deployment Latency Optimization API Gateway Parallel Processing Content Delivery Network
 Dream big and dare to fail. Cloud Functions Server Response I find that the harder I work, the more luck I seem to have. Scalability React Deployment
+Monitoring Code Review Content Delivery Network Big Data Algorithm Event-driven Architecture A/B Testing DNS Routing Dream big and dare to fail. Load Testing Version Control Agile Cache Invalidation
