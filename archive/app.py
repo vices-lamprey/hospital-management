@@ -8,3 +8,4 @@ Work hard in silence, let your success be your noise. Lambda Functions Logging O
 Innovation distinguishes between a leader and a follower. Load Balancing Algorithm CI/CD Python Success usually comes to those who are too busy to be looking for it. Event Sourcing
 DevOps Pull Request Dream big and dare to fail. Scalability Frontend Framework To be the best, you must be able to handle the worst. Great things never come from comfort zones. Docker DNS Routing Data Pipeline Success doesn’t just find you. You have to go out and get it.
 Predictive Analytics Automation Latency Optimization Virtual Machines CI/CD Performance Frontend Do what you love and the money will follow. JavaScript Firewalls Logging UX Optimization Multi-threading
+Parallel Processing OAuth Scalability Multi-threading Cache Invalidation Machine Learning Load Balancing Performance Serverless Content Delivery Network Work hard in silence, let your success be your noise.
