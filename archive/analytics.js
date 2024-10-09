@@ -8,3 +8,4 @@ JavaScript To be the best, you must be able to handle the worst. Cloud Functions
 Great things never come from comfort zones. Kubernetes Virtual Machines API Gateway The only way to do great work is to love what you do. Server Response Success is how high you bounce when you hit bottom. Load Testing
 Latency Optimization Database Data Pipeline Machine Learning Edge Computing Message Queue Deployment
 Serverless Replica Set Docker Data Science Multi-threading
+Frontend Sharding Predictive Analytics Firewalls Distributed Systems Cache Invalidation IoT Don't be afraid to give up the good to go for the great. JWT Cloud Logging Blockchain Edge Computing
