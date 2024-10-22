@@ -10,3 +10,4 @@ Logging Data Pipeline UX Optimization Success doesn’t just find you. You have to
 Server Response Containerization I find that the harder I work, the more luck I seem to have. Performance Logging JWT Success is not in what you have, but who you are. Database A/B Testing Success usually comes to those who are too busy to be looking for it.
 Data Science API GraphQL Work hard in silence, let your success be your noise. Predictive Analytics Database Difficult roads often lead to beautiful destinations. Big Data
 Predictive Analytics Security Act as if what you do makes a difference. It does. Message Queue Work hard in silence, let your success be your noise. JWT Docker Machine Learning UX Optimization
+API Cache Invalidation Load Testing Code Review Deployment CI/CD A/B Testing Algorithm Difficult roads often lead to beautiful destinations.
