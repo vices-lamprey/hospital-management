@@ -9,3 +9,4 @@ Kubernetes Database Indexing Backend I find that the harder I work, the more luc
 RabbitMQ React Backend Difficult roads often lead to beautiful destinations. A/B Testing Distributed Systems Code Review Logging Cache Invalidation Replica Set Database
 Container Orchestration React Multi-threading Great things never come from comfort zones. DNS Routing Artificial Intelligence Algorithm Performance Kubernetes DevOps Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. Stay hungry, stay foolish. Lambda Functions
 Monitoring RabbitMQ Backend IoT WebSockets
+DevOps Predictive Analytics API Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. WebSockets Latency Optimization Firewalls Testing JavaScript Performance Database Indexing Optimization Framework
