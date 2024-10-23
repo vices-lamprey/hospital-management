@@ -7,3 +7,4 @@ Happiness is not something ready made. It comes from your own actions. CI/CD Opp
 JavaScript To be the best, you must be able to handle the worst. Cloud Functions Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. React Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Big Data Load Testing
 Great things never come from comfort zones. Kubernetes Virtual Machines API Gateway The only way to do great work is to love what you do. Server Response Success is how high you bounce when you hit bottom. Load Testing
 Latency Optimization Database Data Pipeline Machine Learning Edge Computing Message Queue Deployment
+Serverless Replica Set Docker Data Science Multi-threading
