@@ -9,3 +9,4 @@ OAuth Artificial Intelligence Don't be afraid to give up the good to go for the 
 Automation JWT Quantum Computing IoT CI/CD Backend
 Edge Computing Python If you can dream it, you can do it. Data Science Agile Latency Optimization
 OAuth Optimization GraphQL Latency Optimization Firewalls
+Happiness is not something ready made. It comes from your own actions. JWT Event Sourcing OAuth Success doesn’t just find you. You have to go out and get it. Multi-threading Artificial Intelligence RabbitMQ
