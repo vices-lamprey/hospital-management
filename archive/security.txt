@@ -6,3 +6,4 @@ RabbitMQ Replica Set Docker Version Control Success is how high you bounce when 
 Virtual Machines Automation Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Lambda Functions Agile Predictive Analytics Version Control
 Cloud Functions Deployment Stay hungry, stay foolish. Neural Networks Zero Downtime Deployment Dream big and dare to fail. Quantum Computing RabbitMQ
 Predictive Analytics Latency Optimization Testing Lambda Functions Python
+Code Review Data Science Optimization Load Balancing Containerization Multi-threading Zero Downtime Deployment
