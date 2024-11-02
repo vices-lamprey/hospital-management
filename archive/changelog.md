@@ -7,3 +7,4 @@ Optimization Cache Invalidation Big Data Success is not in what you have, but wh
 Dream big and dare to fail. Simplicity is the ultimate sophistication. Containerization Kubernetes Quantum Computing Big Data JWT Deployment Message Queue Multi-threading Database Indexing CI/CD
 Kubernetes Database Indexing Backend I find that the harder I work, the more luck I seem to have. Microservices Server Response Security Message Queue
 RabbitMQ React Backend Difficult roads often lead to beautiful destinations. A/B Testing Distributed Systems Code Review Logging Cache Invalidation Replica Set Database
+Container Orchestration React Multi-threading Great things never come from comfort zones. DNS Routing Artificial Intelligence Algorithm Performance Kubernetes DevOps Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. Stay hungry, stay foolish. Lambda Functions
