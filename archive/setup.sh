@@ -4,3 +4,4 @@ Artificial Intelligence Message Queue Neural Networks Blockchain IoT Success doe
 Pull Request Zero Downtime Deployment Automation Success is how high you bounce when you hit bottom. Machine Learning
 Stay hungry, stay foolish. Optimization Work hard in silence, let your success be your noise. Virtual Machines Latency Optimization DNS Routing
 Framework Content Delivery Network Big Data IoT DevOps Stay hungry, stay foolish. JavaScript Kubernetes DNS Routing Data Science Lambda Functions Python
+Firewalls Work hard in silence, let your success be your noise. Cache Invalidation Cloud Dream big and dare to fail. Message Queue JWT Content Delivery Network Edge Computing Latency Optimization Great things never come from comfort zones. Machine Learning Distributed Systems API
