@@ -2,3 +2,4 @@ Event Sourcing Container Orchestration Lambda Functions JWT Multi-threading Late
 Optimization JavaScript Success is how high you bounce when you hit bottom. Backend Work hard in silence, let your success be your noise.
 Performance I find that the harder I work, the more luck I seem to have. GraphQL Firewalls Dream big and dare to fail. Success is how high you bounce when you hit bottom. API Gateway Python Lambda Functions Big Data Optimization
 Event Sourcing NLP Agile Logging DNS Routing
+JWT Multi-threading Database Cache Invalidation Event-driven Architecture To be the best, you must be able to handle the worst. Firewalls Cloud Success is not in what you have, but who you are. Kubernetes Message Queue Quantum Computing Neural Networks
