@@ -8,3 +8,4 @@ Server Response WebSockets Cache Invalidation Event-driven Architecture Do what 
 OAuth Artificial Intelligence Don't be afraid to give up the good to go for the great. RabbitMQ Latency Optimization Load Balancing Backend API React Algorithm Data Pipeline Cache Invalidation
 Automation JWT Quantum Computing IoT CI/CD Backend
 Edge Computing Python If you can dream it, you can do it. Data Science Agile Latency Optimization
+OAuth Optimization GraphQL Latency Optimization Firewalls
