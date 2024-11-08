@@ -3,3 +3,4 @@ Performance Edge Computing Do what you love and the money will follow. Distribut
 Artificial Intelligence Message Queue Neural Networks Blockchain IoT Success doesn’t just find you. You have to go out and get it. Sharding
 Pull Request Zero Downtime Deployment Automation Success is how high you bounce when you hit bottom. Machine Learning
 Stay hungry, stay foolish. Optimization Work hard in silence, let your success be your noise. Virtual Machines Latency Optimization DNS Routing
+Framework Content Delivery Network Big Data IoT DevOps Stay hungry, stay foolish. JavaScript Kubernetes DNS Routing Data Science Lambda Functions Python
