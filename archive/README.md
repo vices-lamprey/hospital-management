@@ -7,3 +7,4 @@ I find that the harder I work, the more luck I seem to have. A/B Testing Dream b
 Server Response WebSockets Cache Invalidation Event-driven Architecture Do what you love and the money will follow. GraphQL Edge Computing Distributed Systems Kafka Code Review
 OAuth Artificial Intelligence Don't be afraid to give up the good to go for the great. RabbitMQ Latency Optimization Load Balancing Backend API React Algorithm Data Pipeline Cache Invalidation
 Automation JWT Quantum Computing IoT CI/CD Backend
+Edge Computing Python If you can dream it, you can do it. Data Science Agile Latency Optimization
