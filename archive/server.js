@@ -5,3 +5,4 @@ Container Orchestration Neural Networks Monitoring If you can dream it, you can 
 JWT Event-driven Architecture API Data Pipeline Multi-threading Distributed Systems To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it.
 CI/CD DevOps Data Science Big Data The only way to do great work is to love what you do. Edge Computing
 Edge Computing Multi-threading Neural Networks Load Testing React Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Algorithm A/B Testing Container Orchestration Server Response Stay hungry, stay foolish.
+Kubernetes Logging Data Pipeline Artificial Intelligence Server Response Containerization Simplicity is the ultimate sophistication. Event-driven Architecture Happiness is not something ready made. It comes from your own actions. UX Optimization Cloud Functions JavaScript
