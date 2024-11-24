@@ -5,3 +5,4 @@ Scalability I find that the harder I work, the more luck I seem to have. Load Te
 Data Science Microservices Innovation distinguishes between a leader and a follower. Edge Computing Cloud Container Orchestration Event Sourcing UX Optimization JWT Server Response Opportunities don't happen. You create them.
 I find that the harder I work, the more luck I seem to have. A/B Testing Dream big and dare to fail. Great things never come from comfort zones. Frontend
 Server Response WebSockets Cache Invalidation Event-driven Architecture Do what you love and the money will follow. GraphQL Edge Computing Distributed Systems Kafka Code Review
+OAuth Artificial Intelligence Don't be afraid to give up the good to go for the great. RabbitMQ Latency Optimization Load Balancing Backend API React Algorithm Data Pipeline Cache Invalidation
