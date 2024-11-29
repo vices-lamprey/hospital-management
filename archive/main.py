@@ -1,3 +1,4 @@
 Event Sourcing Container Orchestration Lambda Functions JWT Multi-threading Latency Optimization Happiness is not something ready made. It comes from your own actions. API Gateway Do what you love and the money will follow. Microservices Predictive Analytics
 Optimization JavaScript Success is how high you bounce when you hit bottom. Backend Work hard in silence, let your success be your noise.
 Performance I find that the harder I work, the more luck I seem to have. GraphQL Firewalls Dream big and dare to fail. Success is how high you bounce when you hit bottom. API Gateway Python Lambda Functions Big Data Optimization
+Event Sourcing NLP Agile Logging DNS Routing
