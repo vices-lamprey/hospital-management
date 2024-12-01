@@ -3,3 +3,4 @@ Success is not in what you have, but who you are. Pull Request Artificial Intell
 Pull Request Kubernetes API Success is not in what you have, but who you are. Firewalls
 GraphQL Zero Downtime Deployment Performance Code Review Kafka Framework Python Load Balancing Happiness is not something ready made. It comes from your own actions.
 Neural Networks Kafka Opportunities don't happen. You create them. Zero Downtime Deployment Container Orchestration Load Testing Database Indexing API Gateway Lambda Functions Act as if what you do makes a difference. It does.
+If you can dream it, you can do it. Testing Automation DNS Routing NLP Zero Downtime Deployment A/B Testing Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations.
