@@ -4,3 +4,4 @@ Algorithm Container Orchestration Cloud JWT API Gateway A/B Testing Load Testing
 Difficult roads often lead to beautiful destinations. Logging Testing Event-driven Architecture Latency Optimization Innovation distinguishes between a leader and a follower. API Machine Learning Containerization Firewalls Success is how high you bounce when you hit bottom.
 Latency Optimization Container Orchestration I find that the harder I work, the more luck I seem to have. Lambda Functions Success is not in what you have, but who you are. Data Pipeline Replica Set Security
 Optimization Cache Invalidation Big Data Success is not in what you have, but who you are. Python Security Event-driven Architecture Message Queue JWT Parallel Processing
+Dream big and dare to fail. Simplicity is the ultimate sophistication. Containerization Kubernetes Quantum Computing Big Data JWT Deployment Message Queue Multi-threading Database Indexing CI/CD
