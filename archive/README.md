@@ -2,3 +2,4 @@ NLP The only way to do great work is to love what you do. GraphQL Multi-threadin
 WebSockets JavaScript Optimization Frontend Cloud Load Testing
 Success is not in what you have, but who you are. Data Science Parallel Processing JavaScript Cache Invalidation Stay hungry, stay foolish. IoT Docker Container Orchestration Serverless API
 Scalability I find that the harder I work, the more luck I seem to have. Load Testing Logging Cache Invalidation UX Optimization Success doesn’t just find you. You have to go out and get it. Predictive Analytics Distributed Systems Don't be afraid to give up the good to go for the great. WebSockets Zero Downtime Deployment JWT Success is how high you bounce when you hit bottom. Neural Networks
+Data Science Microservices Innovation distinguishes between a leader and a follower. Edge Computing Cloud Container Orchestration Event Sourcing UX Optimization JWT Server Response Opportunities don't happen. You create them.
