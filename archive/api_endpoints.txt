@@ -1,2 +1,3 @@
 Data Science Version Control Act as if what you do makes a difference. It does. Framework Parallel Processing Latency Optimization Work hard in silence, let your success be your noise. Pull Request Microservices Python NLP Opportunities don't happen. You create them. Multi-threading Success is how high you bounce when you hit bottom. Security
 Parallel Processing Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it. Predictive Analytics Virtual Machines Do what you love and the money will follow. Event-driven Architecture React Cache Invalidation Work hard in silence, let your success be your noise.
+GraphQL OAuth Dream big and dare to fail. Virtual Machines Zero Downtime Deployment Testing API API Gateway
