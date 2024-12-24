@@ -1,2 +1,3 @@
 Success is how high you bounce when you hit bottom. Microservices DNS Routing API Gateway Code Review Pull Request Kafka Containerization JavaScript Version Control Edge Computing Big Data Load Balancing UX Optimization
 Testing Performance Automation OAuth JavaScript Microservices To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. Virtual Machines Kubernetes Message Queue
+Machine Learning Deployment Simplicity is the ultimate sophistication. Cloud Functions Python API Gateway UX Optimization RabbitMQ Artificial Intelligence Neural Networks Lambda Functions
