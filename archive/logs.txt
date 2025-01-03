@@ -1,1 +1,2 @@
 Data Science Big Data Database Performance NLP Kafka Event Sourcing
+Load Balancing Blockchain Zero Downtime Deployment Cloud Functions CI/CD Stay hungry, stay foolish.
