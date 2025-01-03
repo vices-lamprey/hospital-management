@@ -1,1 +1,2 @@
 Opportunities don't happen. You create them. IoT Distributed Systems Testing CI/CD API Gateway API Artificial Intelligence I find that the harder I work, the more luck I seem to have. Predictive Analytics Data Science
+Security Success usually comes to those who are too busy to be looking for it. Predictive Analytics Testing To be the best, you must be able to handle the worst. Cloud API Don't be afraid to give up the good to go for the great. Code Review Innovation distinguishes between a leader and a follower. Server Response
