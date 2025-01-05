@@ -1,0 +1,1 @@
+Opportunities don't happen. You create them. IoT Distributed Systems Testing CI/CD API Gateway API Artificial Intelligence I find that the harder I work, the more luck I seem to have. Predictive Analytics Data Science
