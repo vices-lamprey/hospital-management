@@ -2,3 +2,4 @@ Opportunities don't happen. You create them. Code Review Containerization Diffic
 Security Kubernetes Event Sourcing Python Framework Message Queue API Gateway Kafka DevOps A/B Testing Containerization
 Deployment Logging NLP Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Parallel Processing Pull Request Monitoring Big Data IoT Testing Code Review Data Science
 Content Delivery Network A/B Testing Replica Set GraphQL Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. WebSockets Database Indexing
+Parallel Processing Python Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Success is not in what you have, but who you are. Load Testing Artificial Intelligence API Gateway Serverless Latency Optimization A/B Testing JavaScript Success doesn’t just find you. You have to go out and get it.
