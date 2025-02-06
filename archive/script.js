@@ -1,0 +1,1 @@
+Database Indexing Code Review Success is how high you bounce when you hit bottom. JavaScript Simplicity is the ultimate sophistication. Version Control Virtual Machines Event-driven Architecture Data Pipeline Performance A/B Testing I find that the harder I work, the more luck I seem to have. Automation UX Optimization
